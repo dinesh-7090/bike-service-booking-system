@@ -1,0 +1,28 @@
+{
+  "name": "bike-service-booking-system",
+  "version": "1.0.0",
+  "description": "A responsive web application for booking bike service slots online.\r Designed for service centers to manage customer appointments efficiently.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinesh-7090/bike-service-booking-system.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/dinesh-7090/bike-service-booking-system/issues"
+  },
+  "homepage": "https://github.com/dinesh-7090/bike-service-booking-system#readme",
+  "dependencies": {
+    "axios": "^1.13.5",
+    "cors": "^2.8.6",
+    "dotenv": "^17.2.4",
+    "express": "^5.2.1",
+    "pg": "^8.18.0"
+  }
+}
